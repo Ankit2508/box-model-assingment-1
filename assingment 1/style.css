@@ -1,0 +1,32 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.heading{
+    border: 1px red solid;
+    padding: 10px;
+    background-color: #d18c1d;
+}
+.para{
+    height: 600px;
+    width: 400px;
+    border: black 2px dotted;
+    overflow: scroll;
+    background-color: #d1d631;
+}
+.img{
+    border-radius: 8px;
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.link{
+    border: 3px blue dashed;
+    background-color: #a1a1a1;
+}
